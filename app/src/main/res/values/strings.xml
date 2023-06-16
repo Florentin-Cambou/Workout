@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Workout</string>
+
+    <string name="name_exercice_1">Yoga</string>
+    <string name="name_exercice_2">Burpees</string>
+    <string name="name_exercice_3">Squat</string>
+    <string name="name_exercice_4">Pompes</string>
+    <string name="name_exercice_5">Pistol Squat</string>
+
+    <string name="description">Lorem ipsum dolor sit amet. Vel distinctio iste vel iste porro ut nesciunt accusantium. Aut amet omnis ea velit nostrum ut quisquam velit est suscipit molestiae qui assumenda voluptatem quo cupiditate similique.</string>
+
+
+</resources>
